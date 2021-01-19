@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DoAnAndoid</string>
+    <string name="title_home">Home</string>
+    <string name="gio_hang">Giỏ Hàng</string>
+    <string name="lich_su">Lịch sử đơn hàng</string>
+
+    <string name="facebook_application_id" translatable="false">402664644356760</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb402664644356760</string>
+
+</resources>
